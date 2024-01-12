@@ -4,4 +4,4 @@
 
 #### About the course:-
 
-Equivalent [NPTEL Course](https://plaksha.edu.in/faculty-details/dr-deepak-khemani) 
+Equivalent [NPTEL Course](https://nptel.ac.in/courses/106106140) 
